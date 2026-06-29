@@ -1,0 +1,18 @@
+Copyright (c) 2026 Niklas Burtscher / kxrbystar
+
+Permission is granted to use, modify, and distribute TLS13DS and derivative
+works, provided that:
+
+1. This copyright notice is preserved.
+2. Any project using TLS13DS includes the following attribution in its
+   documentation, README, credits section, about page, or equivalent location:
+
+   "Uses TLS13DS by Niklas Burtscher / kxrbystar"
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
