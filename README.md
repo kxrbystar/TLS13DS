@@ -1,7 +1,6 @@
 # TLS13DS
 
-Standalone TLS 1.2/1.3 client wrapper for Nintendo 3DS homebrew, built on
-mbedTLS 3.6.x and libctru sockets.
+Standalone TLS client library for Nintendo 3DS homebrew with TLS 1.2 and TLS 1.3 support.
 
 This repository is extracted from a larger application. The TLS protocol
 implementation is mbedTLS; this project provides the 3DS platform hooks,
@@ -29,6 +28,9 @@ TLS13DS bundles mbedTLS 3.6.6 (Apache-2.0). Upstream: https://github.com/Mbed-TL
 
 The checked-in `mbedTLS/3ds_mbedtls_config.h` is the configuration used for
 the 3DS build.
+
+> [!WARNING]
+> TLS13DS has only been tested on a launch-model Nintendo 3DS (CTR-001). Compatibility with other systems, including the New Nintendo 3DS family, has not yet been verified.
 
 ## Build
 
@@ -106,3 +108,8 @@ The bundled mbedTLS source code is licensed under the Apache License 2.0. See mb
 Projects using TLS13DS are requested to include the following attribution in their documentation, README, credits section, about page, or equivalent location:
 
 Uses TLS13DS by Niklas Burtscher / kxrbystar
+
+## Support Ukraine 🇺🇦
+
+If you would like to help protect Ukrainian civilians from Russian missile and drone attacks, consider supporting the official UNITED24 Sky Defense fundraiser:
+https://u24.gov.ua/sky-defense
