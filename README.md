@@ -29,8 +29,9 @@ TLS13DS bundles mbedTLS 3.6.6 (Apache-2.0). Upstream: https://github.com/Mbed-TL
 The checked-in `mbedTLS/3ds_mbedtls_config.h` is the configuration used for
 the 3DS build.
 
-> [!WARNING]
-> TLS13DS has only been tested on a launch-model Nintendo 3DS (CTR-001). Compatibility with other systems, including the New Nintendo 3DS family, has not yet been verified.
+> [!CAUTION]
+> TLS13DS is experimental software and should not yet be considered production-ready.
+> The library is under active development and has only been tested on a launch-model Nintendo 3DS (CTR-001).
 
 ## Build
 
