@@ -1,4 +1,4 @@
-# tls13-3ds
+# TLS13DS
 
 Standalone TLS 1.2/1.3 client wrapper for Nintendo 3DS homebrew, built on
 mbedTLS 3.6.x and libctru sockets.
